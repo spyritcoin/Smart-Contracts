@@ -1,10 +1,9 @@
 /**
- *Submitted for verification at polygonscan.com on 2021-06-16
- * SPDX-License-Identifier: Unlicensed
+ * SPDX-License-Identifier: MIT
 */
 
 /**
- *Submitted for verification at Etherscan.io on 2020-09-16
+ *
 */
 // File: contracts/Context.sol
 pragma solidity ^0.7.0;
